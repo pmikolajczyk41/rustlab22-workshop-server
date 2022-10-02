@@ -25,7 +25,7 @@
 /// `http://127.0.0.1:9992/` in your browser.
 #[test]
 fn run_the_swapi_docker_image() {
-    let is_swapi_running = todo!();
+    let is_swapi_running = true;
 
     assert!(is_swapi_running);
 }
